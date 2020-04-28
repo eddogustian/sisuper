@@ -22,7 +22,7 @@ class Kartukeluarga extends CI_Controller {
 		}
 		//jika kondisi diatas berhasil maka akan tampil halaman dashboard sesuai dengan $jabatan
 		$this->load->view($jabatan.'/header');
-		$this->load->view($jabatan.'/Kartukeluarga',$data);
+		$this->load->view($jabatan.'/kartukeluarga',$data);
 		$this->load->view($jabatan.'/footer');
 	}
 	

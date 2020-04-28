@@ -11,7 +11,7 @@ class Status extends CI_Controller {
 		//$this->load->view('surat/footer');
 				// //$this->load->view('surat/footer');
 		$this->load->view($jabatan.'/header');
-		$this->load->view($jabatan.'/Status',$statussurat);
+		$this->load->view($jabatan.'/status',$statussurat);
 		$this->load->view($jabatan.'/footer');
 	}
 }
