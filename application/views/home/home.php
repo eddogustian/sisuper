@@ -10,18 +10,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="SISUPER - DESA JAMBLANG" />
 	<meta name="keywords" content="SISUPER - DESA JAMBLANG" />
-	<meta name="author" content="FreeHTML5.co" />
-	<!--
-		//////////////////////////////////////////////////////
-		FREE HTML5 TEMPLATE
-		DESIGNED & DEVELOPED by FREEHTML5.CO
-			
-						Website: 		http://freehtml5.co/
-								Email: 			info@freehtml5.co
-						Twitter: 		http://twitter.com/fh5co
-						Facebook: 		https://www.facebook.com/fh5co
-		//////////////////////////////////////////////////////
-	-->
+	<meta name="author" content="Desa Jamblang" />
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
